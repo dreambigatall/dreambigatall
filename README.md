@@ -41,26 +41,22 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dreambigatall/dreambigatall/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
- <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src=https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-dreambigatall.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dreambigatall&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dreambigatall&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dreambigatall&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br/><br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dreambigatall&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<hr/>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dreambigatall&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
-<br/>
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=dreambigatall&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
